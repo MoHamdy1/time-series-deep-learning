@@ -62,9 +62,10 @@ In this project, we explore multiple modeling techniques to predict Bitcoin pric
 
 ## 📈 Forecast Visualization
 
-![Forecast Graph 1](./path_to_your_image1.png)
+![Forecast Graph 1](./"D:\data science projects\project 2 unfinished\time-series-deep-learning-\output.png")
 
 ---
+
 
 ## 🧠 Conclusion
 
